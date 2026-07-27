@@ -40,7 +40,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
 
@@ -61,6 +61,4 @@
 
 📧 ramyavengadesan016@gmail.com
 
-💼 LinkedIn
-
-🌐 Portfolio (Coming Soon)
+🌐 <a href="https://ramya-portfolio-alpha.vercel.app/">Portfolio</a>
