@@ -90,8 +90,8 @@ I'm a **Python Full Stack Developer** and **Associate Technical Development Trai
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamyaVengadesan&show_icons=true&theme=default&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaVengadesan&layout=compact&hide_border=true" />
 
 </div>
 
