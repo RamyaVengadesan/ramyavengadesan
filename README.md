@@ -101,8 +101,7 @@ I'm a **Python Full Stack Developer** and **Associate Technical Development Trai
 
 📧 [ramyavengadesan016@gmail.com](mailto:ramyavengadesan016@gmail.com)
 🌐 [Portfolio](https://ramya-portfolio-alpha.vercel.app/)
-💼 LinkedIn: add your profile link
-
+💼 [LinkedIn](https://www.linkedin.com/in/ramya-vengadesan-45b98224a)
 <div align="center">
 
 ⭐ *Always learning, always building, always sharing knowledge.* ⭐
